@@ -8,7 +8,3 @@ to practice front-end design skills using HTML and CSS.
 ## Mobile View
 
 ![](./design/mobile-design.jpg)
-
-## Desktop View
-
-![](./design/desktop-design.jpg)
